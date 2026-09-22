@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import warimotoLogo from './assets/warimoto-logo.png'
+import warimotoLogo from './assets/warimoto-logo.jpg'
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 
