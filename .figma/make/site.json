@@ -1,0 +1,10 @@
+{
+  "description": "Connects passengers and motorcyclists in Ayacucho with real-time tracking, driver profiles, and emergency features for safe, reliable transport.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
